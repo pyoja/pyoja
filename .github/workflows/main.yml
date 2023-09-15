@@ -15,10 +15,19 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-      - name: Commit & Push
-        run: |
-          git config user.name pyoja
-          git config user.email wjdgns13nr@naver.com
-          git add -A .
-          git commit -m "generated"
-          git push
+    - name: Set git remote
+      run: |
+        git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}
+    
+    - name: Pull latest changes
+      run: |
+        git pull origin master
+    
+    - name: Commit & Push
+      run: |
+        git config user.name pyoja
+        git config user.email wjdgns13nr@naver.com
+        git add -A .
+        git commit -m "generated"
+        git push
+
