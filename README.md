@@ -3,9 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=pyoja's%20Github&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Welcome+my+github🖥️🧗&font=Redressed&size=40)](https://git.io/typing-svg)
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=dkssud8150&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Welcome+my+github🧑‍💻💪&font=Redressed&size=40)](https://git.io/typing-svg)
 
  <br/>
  <br/>
@@ -39,17 +37,11 @@
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=pyoja&theme=tokyonight&show_icons=true" width="42%" />
 </a>
-  
-[![Pyoja's Tistory](https://img.shields.io/badge/TISTORY-BLOG-blue)](https://pyoja.tistory.com/)
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pyoja&theme=gruvbox_light&show_icons=true&count_private=true)
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=pyoja&theme=flat&column=7)](https://github.com/pyoja/)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pyoja)](https://solved.ac/pyoja/)
 
 <a href="https://opgc.me/#/users/pyoja" target="_blank"><img src="https://api.opgc.me/githubs/users/pyoja/tag/?theme=basic" /></a>
 </div>
