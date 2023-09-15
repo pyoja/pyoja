@@ -39,15 +39,14 @@
 </a>
 
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=pyoja&theme=flat&column=7)](https://github.com/pyoja/)
 
 <a href="https://opgc.me/#/users/pyoja" target="_blank"><img src="https://api.opgc.me/githubs/users/pyoja/tag/?theme=basic" /></a>
 </div>
 
-
-
+![](./profile-3d-contrib/profile-gitblock.svg)
 
 >
 
