@@ -12,7 +12,6 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          persist-credentials: false 
           token: ${{ secrets.TOKEN }}
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
