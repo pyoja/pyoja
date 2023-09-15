@@ -24,4 +24,4 @@ jobs:
           git config user.email wjdgns13nr@naver.com 
           git add -A .
           git commit -m "generated"
-          git push origin HEAD:master
+          git push origin HEAD:master || echo "No changes to commit"
