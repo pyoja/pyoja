@@ -38,12 +38,16 @@
   <img src="https://github-readme-stats.vercel.app/api?username=pyoja&theme=tokyonight&show_icons=true" width="42%" />
 </a>
 
-
-
+  <br/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=pyoja&theme=flat&column=7)](https://github.com/pyoja/)
 
+  <br/>
+
 <a href="https://opgc.me/#/users/pyoja" target="_blank"><img src="https://api.opgc.me/githubs/users/pyoja/tag/?theme=basic" /></a>
+
+  <br/>
+
 </div>
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
