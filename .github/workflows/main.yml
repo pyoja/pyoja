@@ -13,13 +13,13 @@ jobs:
       - uses: actions/checkout@v3
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: ${{ secrets.TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
       - name: Set up Git
         run: |
           git config user.name pyoja
           git config user.email wjdgns13nr@naver.com
-          git remote set-url origin https://${{ secrets.TOKEN }}@github.com/${{ github.repository }}
+          git remote set-url origin https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
       - name: Commit & Push
         run: |
           git add -A .
