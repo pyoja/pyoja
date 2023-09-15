@@ -36,6 +36,9 @@
 [![Pyoja's Tistory](https://img.shields.io/badge/TISTORY-BLOG-blue)](https://pyoja.tistory.com/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pyoja&theme=gruvbox_light&show_icons=true&count_private=true)
+
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 </div>
 
 
