@@ -22,9 +22,9 @@
 <br>
 <img src="https://img.shields.io/badge/asp.net-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+<br>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-
  
    <br/>
    <br/>
