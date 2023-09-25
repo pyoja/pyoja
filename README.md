@@ -44,10 +44,10 @@
   <br/>
     <br/>
 
-<-- 버그
-//[![trophy](https://github-profile-trophy.vercel.app/?username=pyoja&theme=flat&column=7)](https://github.com/pyoja/)
-//[![trophy](https://github-profile-trophy.vercel.app/?username=pyoja)](https://github.com/pyoja/github-profile-trophy)
-//[![trophy](https://github-profile-trophy.vercel.app/?username=pyoja&theme=onedark)](https://github.com/pyoja/github-profile-trophy)
+<!-- 버그
+[![trophy](https://github-profile-trophy.vercel.app/?username=pyoja&theme=flat&column=7)](https://github.com/pyoja/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=pyoja)](https://github.com/pyoja/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=pyoja&theme=onedark)](https://github.com/pyoja/github-profile-trophy)
 -->
 
   <br/>
