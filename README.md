@@ -38,13 +38,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyoja&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=pyoja&theme=tokyonight&show_icons=true" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pyoja&theme=tokyonight&show_icons=true" width="39%" />
 </a>
 
   <br/>
     <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=pyoja&theme=flat&column=7)](https://github.com/pyoja/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=pyoja&theme=flat&column=4)](https://github.com/pyoja/)
 <!-- 버그
 [![trophy](https://github-profile-trophy.vercel.app/?username=pyoja)](https://github.com/pyoja/github-profile-trophy)
 [![trophy](https://github-profile-trophy.vercel.app/?username=pyoja&theme=onedark)](https://github.com/pyoja/github-profile-trophy)
@@ -52,6 +52,7 @@
 
   <br/>
 <a href="https://opgc.me/#/users/pyoja" target="_blank"><img src="https://api.opgc.me/githubs/users/pyoja/tag/?theme=basic" /></a>
+  <br/>
   <br/>
 </div>
 
